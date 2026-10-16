@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /api/
+Disallow: /internal/
+Disallow: /workbench
+Disallow: /command-center
+Disallow: /admin
+Disallow: /manage
+Disallow: /w/
+Allow: /
+
+Sitemap: https://jlcpro.cn/sitemap.xml

@@ -1,0 +1,37 @@
+[
+  {
+    "path": "index.html",
+    "source": "https://jlcpro.cn/",
+    "sha256": "af1a6fecef688752f36a8f49899b62da1fb23207e55a5069bcd1f1a435511c11"
+  },
+  {
+    "path": "robots.txt",
+    "source": "https://jlcpro.cn/robots.txt",
+    "sha256": "b7708d0206f54b7dc5011b6ee9e053b2bc8375dee0961e64d00f5ff2cb80b50d"
+  },
+  {
+    "path": "sitemap.xml",
+    "source": "https://jlcpro.cn/sitemap.xml",
+    "sha256": "4d2b9bf7896bca0be164ed26f1648b18a7ae950692436d30b6eb7124dd720236"
+  },
+  {
+    "path": "guides/listing.html",
+    "source": "https://jlcpro.cn/guides/listing.html",
+    "sha256": "4fdd7fc71b0470010b7e011943cb8b5c3a2752b7567d2bf2b22eed9d63d13620"
+  },
+  {
+    "path": "guides/ozon.html",
+    "source": "https://jlcpro.cn/guides/ozon.html",
+    "sha256": "2d8edac166a07cb98fd72bf4644d11dfc0e31eac62ce7d64a886d7bc55fce9eb"
+  },
+  {
+    "path": "guides/wildberries.html",
+    "source": "https://jlcpro.cn/guides/wildberries.html",
+    "sha256": "7346c6983fd7adac8245aa4ad85d80ccd7e0885a836154bd03ec3f2eccc5b05d"
+  },
+  {
+    "path": "guides/1688.html",
+    "source": "https://jlcpro.cn/guides/1688.html",
+    "sha256": "07ca12155eda38cba85aff1ad0885189daf0f69314d25c8c1cdecc4f12abe98f"
+  }
+]
